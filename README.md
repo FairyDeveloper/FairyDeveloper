@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @FairyDeveloper.
+- 👀 I’m interested in web frontend/backend development, data scraping/analyzing and machine learning.
+- 🌱 I’m currently learning blockchain.
+- 💞️ I’m looking to collaborate on MERN/MEVN, LAMP, Django, Scraping, DIP(Digital Image Processing), Data Anaylzing, Blockchain and Machine Learning.
+- 📫 My skype id is "live:.cid.9418ebcd7be86f28" and email is ermoshinvladislav@gmail.com
